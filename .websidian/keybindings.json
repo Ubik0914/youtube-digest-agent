@@ -1,0 +1,18 @@
+{
+  "search": [
+    "Mod+K",
+    "Mod+G"
+  ],
+  "search-in-vault": [
+    "Mod+Shift+F"
+  ],
+  "new-note": [
+    "Mod+N"
+  ],
+  "toggle-sidebar": [
+    "Mod+Shift+D"
+  ],
+  "shortcut-help": [
+    "?"
+  ]
+}
